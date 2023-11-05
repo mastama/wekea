@@ -8,6 +8,7 @@
     "ios": "expo start --ios",
     "web": "expo start --web"
   },
+  "author": "Singgih Pratama",
   "dependencies": {
     "expo": "~49.0.15",
     "expo-status-bar": "~1.6.0",
